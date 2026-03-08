@@ -1,6 +1,7 @@
 import { createSSRApp } from 'vue'
 import { createPinia } from 'pinia'
 import App from './App.vue'
+import '../font-awesome/css/font-awesome.min.css'
 import './main.scss'
 import { createRouter } from './router/router'
 
