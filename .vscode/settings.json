@@ -1,0 +1,18 @@
+{
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "material-icon-theme.folders.associations": {
+    "headerMenu": "content",
+    "Contact": "content",
+    "Education": "content",
+    "Experience": "content",
+    "Skills": "content",
+    "Recommendations": "content",
+    "Home": "content",
+  },
+}

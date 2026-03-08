@@ -1,0 +1,264 @@
+%PDF-1.4
+%1234
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 9 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 3202 >>
+stream
+BT
+/F1 24 Tf
+1 0 0 1 48 782 Tm (Jonas Larsson) Tj
+/F1 13 Tf
+1 0 0 1 48 752 Tm (Software Developer) Tj
+/F1 11 Tf
+1 0 0 1 48 727 Tm (Status: Open to work | Location: Helsingborg, Sweden) Tj
+/F1 11 Tf
+1 0 0 1 48 712 Tm (Last updated: March 2026) Tj
+/F1 14 Tf
+1 0 0 1 48 687 Tm (SUMMARY) Tj
+/F1 11 Tf
+1 0 0 1 48 663 Tm (Hi! I'm Jonas - a frontend-focused software developer with 5+ years of professional) Tj
+/F1 11 Tf
+1 0 0 1 48 648 Tm (experience building modern, scalable and user-friendly web applications. I) Tj
+/F1 11 Tf
+1 0 0 1 48 633 Tm (specialize in Vue 3, TypeScript, JavaScript, Node.js and modern frontend) Tj
+/F1 11 Tf
+1 0 0 1 48 618 Tm (architecture, and I have hands-on experience with React, cloud pipelines \(AWS\),) Tj
+/F1 11 Tf
+1 0 0 1 48 603 Tm (MySQL, API integrations and tools that improve development workflows. During my) Tj
+/F1 11 Tf
+1 0 0 1 48 588 Tm (years at Zmarta, I built and improved interfaces in financial and comparison) Tj
+/F1 11 Tf
+1 0 0 1 48 573 Tm (services with focus on performance, accessibility, UX and code quality. I enjoy) Tj
+/F1 11 Tf
+1 0 0 1 48 558 Tm (solving real problems, simplifying complex flows and continuously growing in modern) Tj
+/F1 11 Tf
+1 0 0 1 48 543 Tm (web development.) Tj
+/F1 14 Tf
+1 0 0 1 48 516 Tm (CONTACT) Tj
+/F1 11 Tf
+1 0 0 1 56 492 Tm (" Engelska gången 29C, 254 51 Helsingborg) Tj
+/F1 11 Tf
+1 0 0 1 56 476 Tm (" 0706-444922) Tj
+/F1 11 Tf
+1 0 0 1 56 460 Tm (" jl.7804@gmail.com) Tj
+/F1 11 Tf
+1 0 0 1 56 444 Tm (" Curriculum vitae) Tj
+/F1 11 Tf
+1 0 0 1 56 428 Tm (" Personal portfolio) Tj
+/F1 14 Tf
+1 0 0 1 48 404 Tm (EXPERIENCE) Tj
+/F1 12 Tf
+1 0 0 1 48 380 Tm (Software Developer | Aug 2020 - Aug 2025) Tj
+/F1 11 Tf
+1 0 0 1 58 364 Tm (Zmarta AB, Skåne Ängelholm) Tj
+/F1 11 Tf
+1 0 0 1 58 349 Tm (Responsibilities:) Tj
+/F1 11 Tf
+1 0 0 1 72 334 Tm (" Developed and improved customer flows, forms, dashboards and tools in Vue 3 +) Tj
+/F1 11 Tf
+1 0 0 1 84 319 Tm (TypeScript) Tj
+/F1 11 Tf
+1 0 0 1 72 304 Tm (" Built and maintained Node.js backend services and integrated internal and) Tj
+/F1 11 Tf
+1 0 0 1 84 289 Tm (external APIs) Tj
+/F1 11 Tf
+1 0 0 1 72 274 Tm (" Worked with AWS CI/CD pipelines and automated deployment workflows) Tj
+/F1 11 Tf
+1 0 0 1 72 259 Tm (" Optimized performance, reduced technical debt and improved UI/UX in) Tj
+/F1 11 Tf
+1 0 0 1 84 244 Tm (conversion-critical areas) Tj
+/F1 11 Tf
+1 0 0 1 72 229 Tm (" Collaborated closely with design teams on components, design systems and) Tj
+/F1 11 Tf
+1 0 0 1 84 214 Tm (Figma) Tj
+/F1 11 Tf
+1 0 0 1 72 199 Tm (" Managed MySQL databases and GraphQL integrations) Tj
+/F1 11 Tf
+1 0 0 1 72 184 Tm (" Took ownership of code quality, code reviews and technical decisions in the) Tj
+/F1 11 Tf
+1 0 0 1 84 169 Tm (team) Tj
+/F1 11 Tf
+1 0 0 1 58 154 Tm (Selected outcomes:) Tj
+/F1 11 Tf
+1 0 0 1 72 139 Tm (" Improved page performance by up to 30-50% through caching, lazy loading and) Tj
+/F1 11 Tf
+1 0 0 1 84 124 Tm (optimization) Tj
+/F1 11 Tf
+1 0 0 1 72 109 Tm (" Built internal tools that simplified workflows and reduced manual team effort) Tj
+/F1 11 Tf
+1 0 0 1 72 94 Tm (" Led frontend implementation in several larger projects) Tj
+/F1 10 Tf
+1 0 0 1 475 28 Tm (Page 1 of 3) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 9 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3529 >>
+stream
+BT
+/F1 12 Tf
+1 0 0 1 48 782 Tm (Frontend Developer | Mar 2020 - May 2020) Tj
+/F1 11 Tf
+1 0 0 1 58 766 Tm (Internship \(LIA2\) - Sogeti Skåne Helsingborg) Tj
+/F1 12 Tf
+1 0 0 1 48 743 Tm (Frontend Developer | Sep 2019 - Dec 2019) Tj
+/F1 11 Tf
+1 0 0 1 58 727 Tm (Internship \(LIA1\) - Sogeti Skåne Helsingborg) Tj
+/F1 12 Tf
+1 0 0 1 48 704 Tm (Delivery Driver | Mar 2017 - Dec 2017) Tj
+/F1 11 Tf
+1 0 0 1 58 688 Tm (Schenker Åker AB) Tj
+/F1 11 Tf
+1 0 0 1 58 673 Tm (Worked with package delivery logistics.) Tj
+/F1 14 Tf
+1 0 0 1 48 650 Tm (EDUCATION) Tj
+/F1 12 Tf
+1 0 0 1 48 626 Tm (Frontend Developer \(Higher Vocational Education\)) Tj
+/F1 11 Tf
+1 0 0 1 58 610 Tm (Aug 2018 - May 2020 | EC Education) Tj
+/F1 11 Tf
+1 0 0 1 58 595 Tm (Frontend developer program at EC Education in Helsingborg. The program focused on) Tj
+/F1 11 Tf
+1 0 0 1 58 580 Tm (web development, including HTML, CSS, JavaScript, React.js, and different) Tj
+/F1 11 Tf
+1 0 0 1 58 565 Tm (frameworks and libraries.) Tj
+/F1 14 Tf
+1 0 0 1 48 542 Tm (SKILLS) Tj
+/F1 12 Tf
+1 0 0 1 48 518 Tm (Frontend) Tj
+/F1 11 Tf
+1 0 0 1 64 502 Tm (" HTML \(Level 5/5\) - Semantic HTML and accessibility.) Tj
+/F1 11 Tf
+1 0 0 1 64 487 Tm (" CSS \(Level 4/5\) - Responsive layouts with Flexbox and Grid.) Tj
+/F1 11 Tf
+1 0 0 1 64 472 Tm (" SASS \(Level 4/5\) - Modular and maintainable CSS.) Tj
+/F1 11 Tf
+1 0 0 1 64 457 Tm (" Javascript \(Level 4/5\) - Modern JS \(ES6+\) for interactivity.) Tj
+/F1 11 Tf
+1 0 0 1 64 442 Tm (" Typescript \(Level 3/5\) - Type safety and improved developer experience.) Tj
+/F1 11 Tf
+1 0 0 1 64 427 Tm (" Vue \(Level 4/5\) - Vue 3, Composition API and ecosystem.) Tj
+/F1 11 Tf
+1 0 0 1 64 412 Tm (" Vuex \(Level 3/5\) - State management \(Vue 2/legacy\).) Tj
+/F1 11 Tf
+1 0 0 1 64 397 Tm (" Pinia \(Level 4/5\) - State management for Vue 3.) Tj
+/F1 11 Tf
+1 0 0 1 64 382 Tm (" React \(Level 3/5\) - Experience from React projects.) Tj
+/F1 11 Tf
+1 0 0 1 64 367 Tm (" Vite \(Level 3/5\) - Fast dev and build tooling.) Tj
+/F1 11 Tf
+1 0 0 1 64 352 Tm (" Bootstrap \(Level 3/5\) - Rapid UI prototyping and component usage.) Tj
+/F1 12 Tf
+1 0 0 1 48 331 Tm (Backend) Tj
+/F1 11 Tf
+1 0 0 1 64 315 Tm (" Node \(Level 4/5\) - Server-side development and APIs with Node.js.) Tj
+/F1 11 Tf
+1 0 0 1 64 300 Tm (" Graphql \(Level 4/5\) - Design and integration of GraphQL APIs.) Tj
+/F1 11 Tf
+1 0 0 1 64 285 Tm (" Go \(Level 2/5\) - Basic hands-on experience with Go.) Tj
+/F1 11 Tf
+1 0 0 1 64 270 Tm (" Express \(Level 4/5\) - Fast and minimalist Node.js framework for APIs.) Tj
+/F1 12 Tf
+1 0 0 1 48 249 Tm (Tools & DevOps) Tj
+/F1 11 Tf
+1 0 0 1 64 233 Tm (" Docker \(Level 3/5\) - Containerization and local development environments.) Tj
+/F1 11 Tf
+1 0 0 1 64 218 Tm (" Npm \(Level 4/5\) - Package and script management.) Tj
+/F1 11 Tf
+1 0 0 1 64 203 Tm (" Github \(Level 4/5\) - Version control and PR workflows.) Tj
+/F1 11 Tf
+1 0 0 1 64 188 Tm (" Postman \(Level 4/5\) - API testing and documentation.) Tj
+/F1 11 Tf
+1 0 0 1 64 173 Tm (" Vercel \(Level 3/5\) - Platform for deployment and hosting.) Tj
+/F1 11 Tf
+1 0 0 1 64 158 Tm (" Webpack \(Level 3/5\) - Traditional bundler and configuration.) Tj
+/F1 11 Tf
+1 0 0 1 64 143 Tm (" GitHub Actions \(Level 4/5\) - CI/CD pipelines and automation.) Tj
+/F1 11 Tf
+1 0 0 1 64 128 Tm (" AWS \(Level 3/5\) - Cloud services and deployment \(S3, Lambda etc\).) Tj
+/F1 12 Tf
+1 0 0 1 48 107 Tm (Design & UX) Tj
+/F1 11 Tf
+1 0 0 1 64 91 Tm (" Figma \(Level 3/5\) - UI/UX design and prototyping.) Tj
+/F1 10 Tf
+1 0 0 1 475 28 Tm (Page 2 of 3) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 9 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1305 >>
+stream
+BT
+/F1 12 Tf
+1 0 0 1 48 782 Tm (Databases) Tj
+/F1 11 Tf
+1 0 0 1 64 766 Tm (" MySQL \(Level 3/5\) - Database schema design and querying.) Tj
+/F1 11 Tf
+1 0 0 1 64 751 Tm (" MongoDB \(Level 3/5\) - NoSQL database for flexible data models.) Tj
+/F1 11 Tf
+1 0 0 1 64 736 Tm (" SQLite \(Level 3/5\) - Lightweight database for local development and prototypes.) Tj
+/F1 12 Tf
+1 0 0 1 48 715 Tm (Testing) Tj
+/F1 11 Tf
+1 0 0 1 64 699 Tm (" Jest \(Level 3/5\) - Unit testing and snapshot testing.) Tj
+/F1 11 Tf
+1 0 0 1 64 684 Tm (" Vitest \(Level 3/5\) - Fast test execution for Vite projects.) Tj
+/F1 12 Tf
+1 0 0 1 48 663 Tm (Security & Auth) Tj
+/F1 11 Tf
+1 0 0 1 64 647 Tm (" OAuth2 \(Level 3/5\) - API authentication and authorization.) Tj
+/F1 11 Tf
+1 0 0 1 64 632 Tm (" JWT \(Level 3/5\) - Token-based authentication and session handling.) Tj
+/F1 14 Tf
+1 0 0 1 48 611 Tm (RECOMMENDATIONS) Tj
+/F1 12 Tf
+1 0 0 1 48 587 Tm (Jesper Ekberg - Zmarta AB) Tj
+/F1 11 Tf
+1 0 0 1 58 571 Tm (Email: jesper.ekberg@mephistopheles.se) Tj
+/F1 11 Tf
+1 0 0 1 58 556 Tm (Phone: 0703394666) Tj
+/F1 12 Tf
+1 0 0 1 48 535 Tm (Christoffer Lönnerfors - Zmarta AB) Tj
+/F1 11 Tf
+1 0 0 1 58 519 Tm (Email: christoffer.lonnerfors@gmail.com) Tj
+/F1 11 Tf
+1 0 0 1 58 504 Tm (Phone: 0703586538) Tj
+/F1 10 Tf
+1 0 0 1 475 28 Tm (Page 3 of 3) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000259 00000 n 
+0000003513 00000 n 
+0000003639 00000 n 
+0000007220 00000 n 
+0000007346 00000 n 
+0000008703 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+8773
+%%EOF

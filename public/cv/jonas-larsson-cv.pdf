@@ -1,0 +1,264 @@
+%PDF-1.4
+%1234
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 9 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 3328 >>
+stream
+BT
+/F1 24 Tf
+1 0 0 1 48 782 Tm (Jonas Larsson) Tj
+/F1 13 Tf
+1 0 0 1 48 752 Tm (Systemutvecklare) Tj
+/F1 11 Tf
+1 0 0 1 48 727 Tm (Status: Open to work | Plats: Helsingborg, Sverige) Tj
+/F1 11 Tf
+1 0 0 1 48 712 Tm (Senast uppdaterad: Mars 2026) Tj
+/F1 14 Tf
+1 0 0 1 48 687 Tm (SAMMANFATTNING) Tj
+/F1 11 Tf
+1 0 0 1 48 663 Tm (Hej! Jag heter Jonas - en frontend-fokuserad systemutvecklare med 5+ års) Tj
+/F1 11 Tf
+1 0 0 1 48 648 Tm (yrkeserfarenhet av att bygga moderna, skalbara och användarvänliga) Tj
+/F1 11 Tf
+1 0 0 1 48 633 Tm (webbapplikationer. Jag är specialiserad på Vue 3, TypeScript, JavaScript, Node.js) Tj
+/F1 11 Tf
+1 0 0 1 48 618 Tm (och moderna frontend-arkitekturer, och jag har praktisk erfarenhet av) Tj
+/F1 11 Tf
+1 0 0 1 48 603 Tm (React,molndrivna pipelines \(AWS\), MySQL-databaser, API-integrationer och verktyg som) Tj
+/F1 11 Tf
+1 0 0 1 48 588 Tm (förbättrar utvecklingsflöden. Under mina år på Zmarta arbetade jag med att skapa och) Tj
+/F1 11 Tf
+1 0 0 1 48 573 Tm (förbättra gränssnitt inom finans- och jämförelsetjänster - med fokus på prestanda,) Tj
+/F1 11 Tf
+1 0 0 1 48 558 Tm (tillgänglighet, UX och robust kodkvalitet. Jag brinner för att lösa verkliga) Tj
+/F1 11 Tf
+1 0 0 1 48 543 Tm (problem, skapa enkla lösningar för komplexa flöden och att ständigt utvecklas inom) Tj
+/F1 11 Tf
+1 0 0 1 48 528 Tm (modern webbutveckling.) Tj
+/F1 14 Tf
+1 0 0 1 48 501 Tm (KONTAKT) Tj
+/F1 11 Tf
+1 0 0 1 56 477 Tm (" Engelska gången 29C, 254 51 Helsingborg) Tj
+/F1 11 Tf
+1 0 0 1 56 461 Tm (" 0706-444922) Tj
+/F1 11 Tf
+1 0 0 1 56 445 Tm (" jl.7804@gmail.com) Tj
+/F1 11 Tf
+1 0 0 1 56 429 Tm (" Curriculum vitae) Tj
+/F1 11 Tf
+1 0 0 1 56 413 Tm (" Personal portfolio) Tj
+/F1 14 Tf
+1 0 0 1 48 389 Tm (ERFARENHET) Tj
+/F1 12 Tf
+1 0 0 1 48 365 Tm (Systemutvecklare | Aug 2020 - Aug 2025) Tj
+/F1 11 Tf
+1 0 0 1 58 349 Tm (Zmarta AB Skåne Ängelholm) Tj
+/F1 11 Tf
+1 0 0 1 58 334 Tm (Arbetsuppgifter och ansvar:) Tj
+/F1 11 Tf
+1 0 0 1 72 319 Tm (" Utvecklade och förbättrade kundflöden, formulär, dashboards och verktyg i Vue) Tj
+/F1 11 Tf
+1 0 0 1 84 304 Tm (3 + TypeScript) Tj
+/F1 11 Tf
+1 0 0 1 72 289 Tm (" Byggde och underhållde Node.js backend-tjänster och integrerade interna och) Tj
+/F1 11 Tf
+1 0 0 1 84 274 Tm (externa API:er) Tj
+/F1 11 Tf
+1 0 0 1 72 259 Tm (" Arbetade med AWS-pipelines för CI/CD och automatiserade distributionsflöden) Tj
+/F1 11 Tf
+1 0 0 1 72 244 Tm (" Optimerade prestanda, minskade tekniska skulder och förbättrade UI/UX för) Tj
+/F1 11 Tf
+1 0 0 1 84 229 Tm (konverteringskritiska delar) Tj
+/F1 11 Tf
+1 0 0 1 72 214 Tm (" Arbetade nära designteamet med komponenter, designsystem och Figma) Tj
+/F1 11 Tf
+1 0 0 1 72 199 Tm (" Hanterade MySQL-databaser och GraphQL-integrationer) Tj
+/F1 11 Tf
+1 0 0 1 72 184 Tm (" Tog ansvar för kodkvalitet, kodgranskningar och tekniska beslut inom teamet) Tj
+/F1 11 Tf
+1 0 0 1 58 169 Tm (Exempel på resultat:) Tj
+/F1 11 Tf
+1 0 0 1 72 154 Tm (" Förbättrade sidprestanda med upp till 30-50 % genom cachning, lazy loading) Tj
+/F1 11 Tf
+1 0 0 1 84 139 Tm (och kodoptimeringar) Tj
+/F1 11 Tf
+1 0 0 1 72 124 Tm (" Skapade nya interna verktyg som förenklade arbetsflöden och minskade manuell) Tj
+/F1 11 Tf
+1 0 0 1 84 109 Tm (hantering för team) Tj
+/F1 11 Tf
+1 0 0 1 72 94 Tm (" Ledde frontend-implementering i flera större projekt) Tj
+/F1 10 Tf
+1 0 0 1 475 28 Tm (Sida 1 av 3) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 9 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3320 >>
+stream
+BT
+/F1 12 Tf
+1 0 0 1 48 782 Tm (Frontend-utvecklare | Mars 2020 - May 2020) Tj
+/F1 11 Tf
+1 0 0 1 58 766 Tm (Praktik\(LIA2\) - Sogeti Skåne Helsingborg) Tj
+/F1 12 Tf
+1 0 0 1 48 743 Tm (Frontend-utvecklare | Sept 2019 - Dec 2019) Tj
+/F1 11 Tf
+1 0 0 1 58 727 Tm (Praktik\(LIA1\) - Sogeti Skåne Helsingborg) Tj
+/F1 12 Tf
+1 0 0 1 48 704 Tm (Budbilsförare | Mars 2017 - Dec 2017) Tj
+/F1 11 Tf
+1 0 0 1 58 688 Tm (Schenker Åker AB) Tj
+/F1 11 Tf
+1 0 0 1 58 673 Tm (Arbetade med att leverera paket.) Tj
+/F1 14 Tf
+1 0 0 1 48 650 Tm (UTBILDNING) Tj
+/F1 12 Tf
+1 0 0 1 48 626 Tm (Frontend Developer YH) Tj
+/F1 11 Tf
+1 0 0 1 58 610 Tm (Aug 2018 - Maj 2020 | EC Utbildning) Tj
+/F1 11 Tf
+1 0 0 1 58 595 Tm (Frontend-utvecklare YH-program på EC Utbildning i Helsingborg. Programmet) Tj
+/F1 11 Tf
+1 0 0 1 58 580 Tm (fokuserade på webbutveckling, inklusive HTML, CSS, JavaScript, React.js och olika) Tj
+/F1 11 Tf
+1 0 0 1 58 565 Tm (ramverk och bibliotek.) Tj
+/F1 14 Tf
+1 0 0 1 48 542 Tm (FÄRDIGHETER) Tj
+/F1 12 Tf
+1 0 0 1 48 518 Tm (Frontend) Tj
+/F1 11 Tf
+1 0 0 1 64 502 Tm (" HTML \(5/5\) - Semantisk HTML och tillgänglighet.) Tj
+/F1 11 Tf
+1 0 0 1 64 487 Tm (" CSS \(4/5\) - Responsiva layouter med Flexbox och Grid.) Tj
+/F1 11 Tf
+1 0 0 1 64 472 Tm (" SASS \(4/5\) - Modulär och underhållbar CSS.) Tj
+/F1 11 Tf
+1 0 0 1 64 457 Tm (" Javascript \(4/5\) - Modern JS \(ES6+\) för interaktivitet.) Tj
+/F1 11 Tf
+1 0 0 1 64 442 Tm (" Typescript \(3/5\) - Typning och bättre utvecklarupplevelse.) Tj
+/F1 11 Tf
+1 0 0 1 64 427 Tm (" Vue \(4/5\) - Vue 3, Composition API och ekosystemet.) Tj
+/F1 11 Tf
+1 0 0 1 64 412 Tm (" Vuex \(3/5\) - State management \(Vue 2/legacy\).) Tj
+/F1 11 Tf
+1 0 0 1 64 397 Tm (" Pinia \(4/5\) - State management för Vue 3.) Tj
+/F1 11 Tf
+1 0 0 1 64 382 Tm (" React \(3/5\) - Erfarenhet av React-projekt.) Tj
+/F1 11 Tf
+1 0 0 1 64 367 Tm (" Vite \(3/5\) - Snabba dev- och byggverktyg.) Tj
+/F1 11 Tf
+1 0 0 1 64 352 Tm (" Bootstrap \(3/5\) - Snabb UI-prototypning och komponenter.) Tj
+/F1 12 Tf
+1 0 0 1 48 331 Tm (Backend) Tj
+/F1 11 Tf
+1 0 0 1 64 315 Tm (" Node \(4/5\) - Server-sida och API:er med Node.js.) Tj
+/F1 11 Tf
+1 0 0 1 64 300 Tm (" Graphql \(4/5\) - Design och integration av GraphQL-API:er.) Tj
+/F1 11 Tf
+1 0 0 1 64 285 Tm (" Go \(2/5\) - Grundläggande erfarenhet av Go.) Tj
+/F1 11 Tf
+1 0 0 1 64 270 Tm (" Express \(4/5\) - Snabbt och minimalistiskt Node.js-ramverk för API:er.) Tj
+/F1 12 Tf
+1 0 0 1 48 249 Tm (Tools & DevOps) Tj
+/F1 11 Tf
+1 0 0 1 64 233 Tm (" Docker \(3/5\) - Containerisering och lokala miljöer.) Tj
+/F1 11 Tf
+1 0 0 1 64 218 Tm (" Npm \(4/5\) - Paket- och script-hantering.) Tj
+/F1 11 Tf
+1 0 0 1 64 203 Tm (" Github \(4/5\) - Versionshantering och PR-flöden.) Tj
+/F1 11 Tf
+1 0 0 1 64 188 Tm (" Postman \(4/5\) - API-testning och dokumentation.) Tj
+/F1 11 Tf
+1 0 0 1 64 173 Tm (" Vercel \(3/5\) - Plattform för distribution och hosting.) Tj
+/F1 11 Tf
+1 0 0 1 64 158 Tm (" Webpack \(3/5\) - Traditionell bundler och konfiguration.) Tj
+/F1 11 Tf
+1 0 0 1 64 143 Tm (" GitHub Actions \(4/5\) - CI/CD pipelines och automation.) Tj
+/F1 11 Tf
+1 0 0 1 64 128 Tm (" AWS \(3/5\) - Molntjänster och distribution \(S3, Lambda etc\).) Tj
+/F1 12 Tf
+1 0 0 1 48 107 Tm (Design & UX) Tj
+/F1 11 Tf
+1 0 0 1 64 91 Tm (" Figma \(3/5\) - UI/UX-design och prototyper.) Tj
+/F1 10 Tf
+1 0 0 1 475 28 Tm (Sida 2 av 3) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 9 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1254 >>
+stream
+BT
+/F1 12 Tf
+1 0 0 1 48 782 Tm (Databaser) Tj
+/F1 11 Tf
+1 0 0 1 64 766 Tm (" MySQL \(3/5\) - Databasschema och frågor.) Tj
+/F1 11 Tf
+1 0 0 1 64 751 Tm (" MongoDB \(3/5\) - NoSQL-databas för flexibla datamodeller.) Tj
+/F1 11 Tf
+1 0 0 1 64 736 Tm (" SQLite \(3/5\) - Lättviktsdatabas för lokal utveckling och prototyper.) Tj
+/F1 12 Tf
+1 0 0 1 48 715 Tm (Testing) Tj
+/F1 11 Tf
+1 0 0 1 64 699 Tm (" Jest \(3/5\) - Enhetstester och snapshot-testing.) Tj
+/F1 11 Tf
+1 0 0 1 64 684 Tm (" Vitest \(3/5\) - Snabb testkörning för Vite-projekt.) Tj
+/F1 12 Tf
+1 0 0 1 48 663 Tm (Security & Auth) Tj
+/F1 11 Tf
+1 0 0 1 64 647 Tm (" OAuth2 \(3/5\) - Autentisering och auktorisering av API:er.) Tj
+/F1 11 Tf
+1 0 0 1 64 632 Tm (" JWT \(3/5\) - Token-baserad autentisering och sessionshantering.) Tj
+/F1 14 Tf
+1 0 0 1 48 611 Tm (REKOMMENDATIONER) Tj
+/F1 12 Tf
+1 0 0 1 48 587 Tm (Jesper Ekberg - Zmarta AB) Tj
+/F1 11 Tf
+1 0 0 1 58 571 Tm (Mail: jesper.ekberg@mephistopheles.se) Tj
+/F1 11 Tf
+1 0 0 1 58 556 Tm (Telefon: 0703394666) Tj
+/F1 12 Tf
+1 0 0 1 48 535 Tm (Christoffer Lönnerfors - Zmarta AB) Tj
+/F1 11 Tf
+1 0 0 1 58 519 Tm (Mail: christoffer.lonnerfors@gmail.com) Tj
+/F1 11 Tf
+1 0 0 1 58 504 Tm (Telefon: 0703586538) Tj
+/F1 10 Tf
+1 0 0 1 475 28 Tm (Sida 3 av 3) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000259 00000 n 
+0000003639 00000 n 
+0000003765 00000 n 
+0000007137 00000 n 
+0000007263 00000 n 
+0000008569 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+8639
+%%EOF
