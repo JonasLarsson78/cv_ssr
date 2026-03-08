@@ -81,6 +81,13 @@ export default {
           order: 11,
           description: 'Snabb UI-prototypning och komponenter.',
         },
+        {
+          image: '/svg/svelte.svg',
+          text: 'Svelte',
+          grade: 2,
+          order: 9.5,
+          description: 'Grundläggande erfarenhet av Svelte.',
+        },
       ],
     },
     {
