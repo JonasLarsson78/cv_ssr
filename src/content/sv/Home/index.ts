@@ -8,7 +8,15 @@ export default {
     location: 'Helsingborg, Sverige',
     lastUpdated: 'Mars 2026',
   },
-  topSkills: ['Vue 3', 'TypeScript', 'Node.js', 'SSR', 'GraphQL', 'AWS'],
+  topSkills: [
+    'Vue 3',
+    'JavaScript',
+    'TypeScript',
+    'Node.js',
+    'HTML',
+    'CSS',
+    'React',
+  ],
   cta: {
     cvUrl: 'https://cv-v2-sage.vercel.app',
     pdfUrl: '/cv/jonas-larsson-cv.pdf',
