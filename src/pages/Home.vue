@@ -4,7 +4,7 @@
       <p class="chip"><i class="fa fa-terminal" aria-hidden="true"></i>{{ uiText.home.roleChip }}</p>
       <div class="status-row">
         <span class="chip status-chip"><i class="fa fa-circle" aria-hidden="true"></i>{{ content.Home.status.openToWork
-          }}</span>
+        }}</span>
         <span class="chip"><i class="fa fa-map-marker" aria-hidden="true"></i>{{ content.Home.status.location }}</span>
         <span class="chip"><i class="fa fa-refresh" aria-hidden="true"></i>{{ uiText.home.lastUpdated }}: {{
           content.Home.status.lastUpdated }}</span>
