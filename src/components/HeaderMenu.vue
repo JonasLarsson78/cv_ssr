@@ -1,6 +1,8 @@
 <template>
   <header class="header">
-    <h1 class="brand">{{ content.HeaderMenu.brand }}</h1>
+    <RouterLink to="/">
+      <h1 class="brand">{{ content.HeaderMenu.brand }}</h1>
+    </RouterLink>
     <div class="nav-wrapper">
       <nav class="nav">
         <RouterLink v-for="value in routes" :key="value.path" :to="value.path">{{ routeLabel(value.path) }}</RouterLink>

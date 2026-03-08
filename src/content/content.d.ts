@@ -76,6 +76,15 @@ interface Content {
       }[]
     }[]
   }
+  Footer: {
+    copyright: string
+    text: string
+    cv: {
+      text: string
+      text2: string
+      url: string
+    }
+  }
 }
 
 type LocalizedContent = {

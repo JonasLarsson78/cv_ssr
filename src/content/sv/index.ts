@@ -5,6 +5,7 @@ import Recommendations from './Recommendations'
 import Skills from './Skills'
 import Experience from './Experience'
 import Home from './Home'
+import Footer from './Footer'
 
 const sv: Content = {
   HeaderMenu,
@@ -14,6 +15,7 @@ const sv: Content = {
   Skills,
   Experience,
   Home,
+  Footer,
 }
 
 export default sv
