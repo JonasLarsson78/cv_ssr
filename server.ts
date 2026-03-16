@@ -39,13 +39,16 @@ async function start() {
       template = await vite.transformIndexHtml(url, template)
 
       const { render } = await vite.ssrLoadModule('/src/entry-server.ts')
-      // Generera årtal på servern
+      // Generera årtal och språk på servern
       const year = new Date().getFullYear()
+      // Bestäm språk (här hårdkodat till 'sv', kan utökas med accept-language)
+      const language = 'sv'
       const { appHtml, state, contentState } = await render(url)
-      // Lägg till year i contentState
+      // Lägg till year och language i contentState
       if (contentState.Footer) {
         contentState.Footer.year = year
       }
+      contentState.language = language
 
       const stateScript = `<script>window.__PINIA_INITIAL_STATE__ = ${JSON.stringify(
         state

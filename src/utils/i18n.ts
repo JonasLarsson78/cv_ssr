@@ -7,18 +7,23 @@ const STORAGE_KEY = 'cv-language'
 const language = ref<Language>('sv')
 
 if (typeof window !== 'undefined') {
-  const storedLanguage = window.localStorage.getItem(STORAGE_KEY)
-  const browserLanguage = window.navigator.language
-    .toLowerCase()
-    .startsWith('sv')
-    ? 'sv'
-    : 'en'
-  const initialLanguage: Language =
-    storedLanguage === 'en' ? 'en' : browserLanguage
-
-  setTimeout(() => {
-    language.value = initialLanguage
-  }, 0)
+  // Synkronisera språk från SSR
+  const ssrLanguage = (window as any).__CONTENT_INITIAL_STATE__?.language
+  if (ssrLanguage) {
+    language.value = ssrLanguage
+  } else {
+    const storedLanguage = window.localStorage.getItem(STORAGE_KEY)
+    const browserLanguage = window.navigator.language
+      .toLowerCase()
+      .startsWith('sv')
+      ? 'sv'
+      : 'en'
+    const initialLanguage: Language =
+      storedLanguage === 'en' ? 'en' : browserLanguage
+    setTimeout(() => {
+      language.value = initialLanguage
+    }, 0)
+  }
 
   watch(
     language,
