@@ -1,6 +1,6 @@
 {
-  "name": "vue-ssr-app",
-  "version": "0.0.1",
+  "name": "cv-ssr",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
