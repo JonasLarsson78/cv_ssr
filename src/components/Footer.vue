@@ -16,7 +16,7 @@ import { computed } from 'vue'
 import content from '../utils/content'
 
 const copyrightText = computed(() =>
-  content.value.Footer.copyright.replace('{{year}}', new Date().getFullYear().toString()),
+  content.value.Footer.copyright.replace('{{year}}', content.value.Footer.year?.toString() ?? '2026'),
 )
 </script>
 
